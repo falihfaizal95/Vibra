@@ -16,7 +16,7 @@ January 2024 - Present
 🔄 Live Media Type Switching: Switch between different media types like music, TV shows, or ebooks on the fly.
 ❌ Robust Error Handling: Gracefully handles API failures, empty results, and unexpected input.
 🧪 Test-Driven Development: Includes over 50 unit tests and an accuracy rate of 95% for search results.
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Java 17
 JavaFX
