@@ -4,7 +4,7 @@ A dynamic Java-based multimedia gallery application that allows users to search 
 
 📅 Timeline.
 
-January 2024 - Present 
+January 2024 - Present.
 
 🚀 Features
 
