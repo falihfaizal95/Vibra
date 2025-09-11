@@ -22,7 +22,7 @@ Java 17
 JavaFX
 Apple Music / iTunes Search API
 Gson (JSON parsing)
-VS Code, Emacs, Maven
+VS Code, Emacs, Maven, Odin
 🔧 Object-Oriented Principles Applied
 
 Encapsulation: Organized structure with clearly defined roles for each method and component.
