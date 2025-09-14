@@ -146,7 +146,7 @@ public class GalleryAppConsole {
             }
         }
     }
-
+//print out all sorts of media that needs to be on the UI
     private static void showMediaTypes() {
         System.out.println("\n📋 Available Media Types:");
         System.out.println("• music - Music tracks and albums");
