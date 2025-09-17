@@ -65,7 +65,7 @@ public class GalleryApp extends Application {
     private Stage stage;
     private Scene scene;
     private VBox root;
-
+//CREATE new buttons on the UI
     private Button playPauseButton;
     private Button getImagesButton;
     private TextField searchTermField;
