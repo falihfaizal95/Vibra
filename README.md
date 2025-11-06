@@ -6,7 +6,7 @@ A dynamic Java-based multimedia gallery application that allows users to search 
 
 January 2024 - Present.
 
-🚀 Features
+🚀 Features.
 
 🔎 Search Multimedia Content: Search across multiple media types including music, movies, podcasts, software, and more via the Apple Music API.
 🖼️ Dynamic Image Gallery: Displays 20 search result images in a responsive grid layout.
