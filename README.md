@@ -9,13 +9,21 @@ January 2024 - Present.
 🚀 Features.
 
 🔎 Search Multimedia Content: Search across multiple media types including music, movies, podcasts, software, and more via the Apple Music API.
+
 🖼️ Dynamic Image Gallery: Displays 20 search result images in a responsive grid layout.
+
 🔁 Play/Pause Mode: Randomized replacement of gallery images every 2 seconds while in play mode.
+
 📶 Progress Tracking: Progress bar reflects real-time loading and search activity.
+
 🎲 Randomized Replacement: No duplicate images displayed in randomized mode.
+
 🔄 Live Media Type Switching: Switch between different media types like music, TV shows, or ebooks on the fly.
+
 ❌ Robust Error Handling: Gracefully handles API failures, empty results, and unexpected input.
+
 🧪 Test-Driven Development: Includes over 50 unit tests and an accuracy rate of 95% for search results.
+
 🛠️ Technologies Used:
 
 Java 17
