@@ -24,6 +24,8 @@ January 2024 - Present.
 
 🧪 Test-Driven Development: Includes over 50 unit tests and an accuracy rate of 95% for search results.
 
+-------------------------
+
 🛠️ Technologies Used:
 
 Java 17
