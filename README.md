@@ -1,6 +1,6 @@
 # Vibra
 
--------------------------------------------------
+------------------------------------------------------
 
 A dynamic Java-based multimedia gallery application that allows users to search for and display images of artists, songs, albums, movies, and more using the Apple Music API. Built with JavaFX, this project emphasizes modularity, interactivity, and real-time UI responsiveness.
 
@@ -26,7 +26,7 @@ January 2024 - Present.
 
 🧪 Test-Driven Development: Includes over 50 unit tests and an accuracy rate of 95% for search results.
 
----------------------------
+-------------------------------
 
 🛠️ Technologies Used:
 
@@ -52,6 +52,8 @@ Build with Maven:
 mvn clean compile
 Run the app:
 mvn javafx:run
+
+------------------------
 📝 Usage Instructions
 
 Enter a search term in the text field (e.g., jack johnson).
