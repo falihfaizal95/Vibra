@@ -53,7 +53,7 @@ mvn clean compile
 Run the app:
 mvn javafx:run
 
-------------------------
+--------------------------
 📝 Usage Instructions
 
 Enter a search term in the text field (e.g., jack johnson).
